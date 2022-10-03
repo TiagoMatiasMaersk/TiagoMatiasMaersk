@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TiagoMatiasMaersk
-- 👀 I’m interested in Python and Kafka related subjects
+- 👀 I’m interested in Python/C# and Kafka related subjects
 - 🌱 I’m currently learning .NET
 - 📫 Reach me at tiago.matias@maersk.coom
 
